@@ -27,3 +27,5 @@ class Forms extends Component {
         )
     }
 }
+
+export default connect()(Forms);
